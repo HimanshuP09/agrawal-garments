@@ -8,5 +8,7 @@ public class AgrawalGarmentsImtApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AgrawalGarmentsImtApplication.class, args);
+		
+		System.out.println("Some new change!");
 	}
 }
